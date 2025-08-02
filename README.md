@@ -9,6 +9,8 @@ An interactive web application for visualizing and experimenting with synthetic 
 
 ![App Screenshot]("Screenshot From 2025-08-02 18-47-37.png")
 
+Live Demo [(https://dna-sequence-visualizer.vercel.app/)]
+
 ## 🌟 Features
 
 - **DNA Sequence Visualization**

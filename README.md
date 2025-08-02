@@ -7,7 +7,7 @@
 
 An interactive web application for visualizing and experimenting with synthetic DNA sequences, mutations, and replication processes.
 
-![App Screenshot]("Screenshot From 2025-08-02 18-47-37.png") *(add your screenshot file)*
+![App Screenshot]("Screenshot From 2025-08-02 18-47-37.png")
 
 ## 🌟 Features
 

@@ -7,7 +7,7 @@
 
 An interactive web application for visualizing and experimenting with synthetic DNA sequences, mutations, and replication processes.
 
-![App Screenshot](./public/screenshot.png) *(add your screenshot file)*
+![App Screenshot](./assets/screenshot.png) *(add your screenshot file)*
 
 ## 🌟 Features
 
@@ -45,8 +45,8 @@ An interactive web application for visualizing and experimenting with synthetic 
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/dna-sequence-explorer.git
-cd dna-sequence-explorer
+git clone https://github.com/Ujjwal0Singh/dna-sequence-visualizer.git
+cd dna-sequence-visualizer
 npm install
 npm run dev
 
